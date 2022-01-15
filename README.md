@@ -1,4 +1,4 @@
-# FIFA_Mini_Project
+# FIFA_Underdogs
 
 The Underdogs:
 An Analysis on Lowly Rated FIFA Players
